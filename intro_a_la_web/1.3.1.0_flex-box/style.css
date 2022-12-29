@@ -1,0 +1,29 @@
+.contenedor {
+    display: flex;
+}
+
+
+.cuadro-1 {
+    background-color: brown;
+    width: 100px;
+    padding: 100px;
+
+}
+
+
+.cuadro-2 {
+    background-color: brown;
+    width: 100px;
+    padding: 100px;
+   
+}
+.linea-1{ 
+    background-color:darkblue;
+    width: 100px;
+    padding: 50px;
+}
+.linea-2{
+    background-color: darkblue;
+    width:100px;
+    padding: 50px;
+}
